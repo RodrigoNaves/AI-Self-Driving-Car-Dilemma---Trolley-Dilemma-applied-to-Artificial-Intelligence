@@ -7,3 +7,4 @@ The goal is create awareness opf the ethical issues that  Artificial Intelligenc
 
 Please note that you can feed the program with different arguments to access different functionalities such as interactive mode, or reading data from csv files
 please pass argument -help or --h for more info.
+This project was developed as part of my Master program at The University of Melbourne 2020
